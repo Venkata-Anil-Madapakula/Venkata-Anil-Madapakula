@@ -38,9 +38,8 @@ using **Python, Scikit-Learn, Pandas, and NumPy**
 training, and evaluation. Ensured system reliability and performance through unit, regression, and 
 integration testing.
 ## 📫 Let's Connect!
-- 💼 LinkedIn: <sup>[🔗](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)</sup>
-- 🏢 GitHub: <sup>[🔗](https://github.com/Venkata-Anil-Madapakula)</sup>
-- 📧 Email: <sup>[🔗](anilkrishna3278@gmail.com)</sup>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+
 
 
 
