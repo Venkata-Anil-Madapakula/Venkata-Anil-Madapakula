@@ -1,27 +1,46 @@
-Hi 👋 My name is Venkata Anil Madapakula
+# Hi👋, My name is Venkata Anil Madapakula
 ===========================
+## 📌 About Me
+- **🚀 Aspiring Data Scientist & AI Enthusiast** with a passion for solving real-world problems.  
+- **🎓 Data Science Graduate (Class of 2024)** focused on ML, DL, and Data Analytics.  
+- **💡 Built projects like Forecasting Food Delivery Time & Human Gender Tracking using AI.**  
+- **🤝 Open to collaboration on innovative, data-driven solutions.**  
+## 💼 Experience
+### **Machine Learning Internship** | Codegnan IT Solutions
+**Guntur, Andhra Pradesh** | **Jan 2024 - Apr 2024**
+- Developed a **machine learning model** to predict food delivery times by analyzing traffic, distance,
+ and order type, optimizing accuracy through algorithm comparison (Random Forest, XGBoost,
+ Linear Regression).
+- Gained hands-on experience in **data preprocessing, feature engineering, and model evaluation** 
+using **Python, Scikit-Learn, Pandas, and NumPy**
+###  Data Analytics Virtual Internship
+**Guntur, Andhra Pradesh** | **Mar 2022 - May 2022**
+- I've always had a knack for working with numbers, collecting data, and finding trends and patterns
+ that others miss. Being a data analyst is a bit like being a detective—tracking the clues within the
+ numbers to find the culprit is always rewarding.
+###
+## 🛠️ Technical Skills
+ - **Programming Languages:** Python, Java, C
+ - **Libraries & Frameworks:** Scikit-learn, Numpy, Pandas, Matplotlib, Plotly, Tensorflow, Keras, NLTK, Spacy, Gensim, Textblob, Familiar with OpenCV & Pytorch
+ - **Data Science & Miscellaneous technologies:** Exploratory Data Analysis, Natural Language Processing, Deep Learning, Machine Learning, Statistical & Data Analytics, Model Development, Optimization
+ - **Web Frameworks:** Flask, Streamlit
+ - **Database:** PostgreSQL
+## 📂 Projects
+### Forecasting Food Delivery Time  <sup>[🔗](https://major-project-year-04.streamlit.app/#restaurant-level)</sup>
+- Developed **predictive models** to enhance accuracy of food delivery time estimates, leveraging machine learning techniques.
+- Technologies used machine learning, Python, Streamlit, HTML, and CSS for project development.
+###  Human Gender Tracking Application  <sup>[🔗](https://github.com/Venkata-Anil-Madapakula/Human-Gender-Tracking-Application)</sup>
+- A Live Application tracks the individual Gender count for many companies which can automate the work with an efficiency of 91%.
+- Technologies used Deep Learning, OpenCV, Pillow, Python, Streamlit, HTML, CSS.
+## 📝 Publications
+### Forecasting Food Delivery Time <sup>[🔗](https://ijarcce.com/papers/forecasting-food-delivery-time-an-exploration-of-predictive-models-and-factors-impacting-delivery-time-estimation/)</sup>
+- Designed and implemented a robust machine learning pipeline, covering data preprocessing, model 
+training, and evaluation. Ensured system reliability and performance through unit, regression, and 
+integration testing.
+## 📫 Let's Connect!
+- 💼 LinkedIn: <sup>[🔗](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)</sup>
+- 🏢 GitHub: <sup>[🔗](https://github.com/Venkata-Anil-Madapakula)</sup>
+- 📧 Email: <sup>[🔗](anilkrishna3278@gmail.com)</sup>
 
-Data science | Machine learning | Python | Deep learning
----------------------------
-
-Hi there! I’m Venkata Anil Madapakula, an aspiring Data Scientist & AI enthusiast passionate about solving real-world problems through Machine Learning, Deep Learning, and Data Analytics. As a Computer Science - Data Science Engineering undergraduate (Class of 2024), I thrive on transforming data into meaningful insights.
-
-I have worked projects like Forecasting Food Delivery Time, enhancing delivery accuracy using Machine Learning, Python, and Streamlit, and a Human Gender Tracking Application, automating gender count with 91% accuracy through Deep Learning and OpenCV.
-
-I am eager to apply my skills, collaborate on innovative projects, and contribute to impactful data-driven solutions. Let’s connect! 🚀
 
 
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
